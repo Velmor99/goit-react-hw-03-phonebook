@@ -1,0 +1,1 @@
+{"version":3,"sources":["styleContactForm.module.css"],"names":[],"mappings":"AAAA,8BACI,qBAAuB,CACvB,WAAY,CACZ,YAAa,CACb,YACJ","file":"main.3f90252b.chunk.css","sourcesContent":[".form {\r\n    border: 2px solid black;\r\n    width: 300px;\r\n    height: 100px;\r\n    display: flex;\r\n}"]}
